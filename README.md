@@ -1,1 +1,1 @@
-<iframe src="https://onedrive.live.com/embed?cid=F833DEB6EB199B1B&amp;resid=F833DEB6EB199B1B%21760&amp;authkey=AC3LrJs1wHpZGp0&amp;em=2" width="476px" height="288px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 문서, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
+https://onedrive.live.com/embed?cid=F833DEB6EB199B1B&amp;resid=F833DEB6EB199B1B%21760&amp;authkey=AC3LrJs1wHpZGp0&amp;em=2
